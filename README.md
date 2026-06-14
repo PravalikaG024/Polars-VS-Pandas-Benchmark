@@ -61,7 +61,7 @@ and memory usage across common data science operations.
 - Biggest win: **9.7x faster** on Filter + GroupBy (Task 3)
 - Smallest win: **1.4x faster** on date operations (Task 4)
 - Polars uses less memory than Pandas on the same dataset
-- For simple operations, the gap is small — complexity is where Polars shines
+- For simple operations, the gap is small complexity is where Polars shines
 
 ---
 
