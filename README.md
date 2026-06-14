@@ -21,7 +21,7 @@ and memory usage across common data science operations.
 ## 🧪 Tasks Benchmarked
 | # | Task | Pandas | Polars | Winner |
 |---|------|--------|--------|--------|
-| 1 | Revenue per Category | — s | — s | Polars |
+| 1 | Revenue per Category | 0.459s |0.133s | Polars |
 | 2 | Top 10 Users by Spend | 0.418s | 0.145s | Polars (2.9x) |
 | 3 | Filter + GroupBy (Electronics > ₹1000) | 0.288s | 0.030s | Polars (9.7x) |
 | 4 | Monthly Revenue Trend | 0.274s | 0.195s | Polars (1.4x) |
