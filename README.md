@@ -1,6 +1,4 @@
-Here's a clean README structure for your repo:
-
-markdown# Polars vs Pandas Benchmark 🐻‍❄️⚡
+# Polars vs Pandas Benchmark 🐻‍❄️⚡
 
 Benchmarking Polars vs Pandas on 2 million rows across 4 real-world data tasks.
 
